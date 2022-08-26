@@ -1,0 +1,24 @@
+Alue_id,Alue,Tarina,Valokuva,Etaisyys_keskusta,Etaisyys_asema,Etaisyys_lkentta
+211101001,Saarenmaa,"""Lorem Ipsum is simply dummy text """,saarenmaa.jpg,11,18,22
+211101002,Haapaniemi,"""Lorem Ipsum is simply dummy text """,haapaniemi.jpg,14,27,31
+211101003,Kuohenmaa,"""Lorem Ipsum is simply dummy text """,kuohenmaa.jpg,16,32,36
+211102001, Ilkko,"""Lorem Ipsum is simply dummy text """,ilkko.jpg,8,18,23
+211102002,Vatiala,"""Lorem Ipsum is simply dummy text """,vatiala.jpg,9,16,21
+211102003,Lamminrahka,"""Lorem Ipsum is simply dummy text """,lamminrahka.jpg,18,24,28
+211103001,Lentola,"""Lorem Ipsum is simply dummy text """,lentola.jpg,7,17,21
+211103002,Asema,"""Lorem Ipsum is simply dummy text """,asema.jpg,9,18,22
+211104001,Ruutana,"""Lorem Ipsum is simply dummy text """,ruutana.jpg,10,20,23
+211104002,Suinula,"""Lorem Ipsum is simply dummy text """,suinula.jpg,12,21,24
+211104003,Lihasula,"""Lorem Ipsum is simply dummy text """,lihasula.jpg,20,29,33
+211105001,Ranta-Koivisto,"""Lorem Ipsum is simply dummy text """,rantakoivisto.jpg,4,20,24
+211105002,Riku,"""Lorem Ipsum is simply dummy text """,riku.jpg,6,25,29
+211105003,Keskusta,"""Lorem Ipsum is simply dummy text """,keskusta.jpg,0,22,25
+211105004,Huutijärvi,"""Lorem Ipsum is simply dummy text """,huutijarvi.jpg,4,23,26
+211106001,Tiihala,"""Lorem Ipsum is simply dummy text """,tiihala.jpg,6,25,28
+211106002,Saarikylät,"""Lorem Ipsum is simply dummy text """,saarikylat.jpg,16,34,38
+211106003,Vääksy,"""Lorem Ipsum is simply dummy text """,vaaksy.jpg,6,24,28
+211106004,Raudanmaa,"""Lorem Ipsum is simply dummy text """,raudanmaa.jpg,15,33,38
+211106005,Raikku,"""Lorem Ipsum is simply dummy text """,raikku.jpg,9,27,31
+211201001,Sahalahti,"""Lorem Ipsum is simply dummy text """,sahalahti.jpg,14,32,36
+211202001,Kuhmalahti,"""Lorem Ipsum is simply dummy text """,kuhmalahti.jpg,32,50,55
+211202003,Vehkajärvi,"""Lorem Ipsum is simply dummy text """,vehkajarvi.jpg,57,75,80
